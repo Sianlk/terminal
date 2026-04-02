@@ -1,0 +1,1 @@
+terminal,AI,command line,shell,developer,productivity,bash

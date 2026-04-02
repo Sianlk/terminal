@@ -1,0 +1,1 @@
+AI terminal with natural language commands

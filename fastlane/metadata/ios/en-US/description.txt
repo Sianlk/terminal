@@ -1,0 +1,1 @@
+Terminal AI reinvents the command line with artificial intelligence. Get instant command suggestions, natural language to shell translation, intelligent error diagnosis, automated script generation, and AI-assisted system monitoring.

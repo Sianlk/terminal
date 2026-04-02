@@ -1,1 +1,1 @@
-The AI-Native Terminal for Power Users
+New in this version: enhanced AI performance, improved onboarding, and UI polish across Terminal AI.

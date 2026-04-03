@@ -1,12 +1,8 @@
-blank_issues_enabled: true
-
+blank_issues_enabled: false
 contact_links:
-  - name: Microsoft Security Response Center 🔐
-    url: https://msrc.microsoft.com/create-report
-    about: Please report security vulnerabilities here.
-  - name: Windows Terminal Documentation issue 📄
-    url: https://github.com/MicrosoftDocs/terminal/issues/new
-    about: Report issues with the documentation for the Windows Terminal (in docs.microsoft.com/windows/terminal)
-  - name: Console Documentation issue 📄
-    url: https://github.com/MicrosoftDocs/console-docs/issues/new
-    about: Report issues with the documentation for the Console (in docs.microsoft.com/windows/console)
+  - name: Documentation
+    url: https://github.com/Sianlk
+    about: Browse the full documentation
+  - name: Security Vulnerability
+    url: https://github.com/Sianlk/GeniAi_App_Install/blob/main/SECURITY.md
+    about: Please report security vulnerabilities per our security policy

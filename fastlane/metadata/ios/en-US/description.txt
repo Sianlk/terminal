@@ -1,1 +1,18 @@
-Terminal AI reinvents the command line with artificial intelligence. Get instant command suggestions, natural language to shell translation, intelligent error diagnosis, automated script generation, and AI-assisted system monitoring.
+Terminal AI — Command Your World with AI
+
+Terminal AI is a production-grade AI-powered platform built for reliability, security, and scale.
+
+KEY FEATURES:
+• Secure authentication with MFA and biometrics
+• AI-powered recommendations and automation
+• Real-time WebSocket notifications
+• Stripe-powered subscription management
+• Full GDPR compliance with data export/deletion
+• Offline-capable Progressive Web App
+• End-to-end encrypted communications
+
+SECURITY & PRIVACY:
+Your data is encrypted at rest and in transit. We comply with GDPR, CCPA, and HIPAA guidelines. Full audit logs are maintained for all critical operations.
+
+SUPPORT: https://terminalai.app/support
+PRIVACY: https://terminalai.app/privacy
